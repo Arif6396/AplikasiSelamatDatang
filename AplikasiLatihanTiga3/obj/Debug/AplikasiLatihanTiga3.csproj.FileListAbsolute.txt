@@ -1,0 +1,21 @@
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb

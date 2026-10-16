@@ -1,0 +1,21 @@
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.AssemblyReference.cache
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Form1.resources
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.cache
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.CoreCompileInputs.cache
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+D:\25.11.6396\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.AssemblyReference.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Form1.resources
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.CoreCompileInputs.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb

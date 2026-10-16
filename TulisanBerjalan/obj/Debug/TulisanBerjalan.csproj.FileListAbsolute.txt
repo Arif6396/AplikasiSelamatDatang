@@ -1,0 +1,21 @@
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.AssemblyReference.cache
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+D:\25.11.6396\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.AssemblyReference.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P3\AplikasiSelamatDatang\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
